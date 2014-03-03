@@ -1,4 +1,4 @@
-ITrip
+Itrip-Proxy
 =====
 
 度假屋点评网（爱旅网）
@@ -7,8 +7,8 @@ ITrip
 安装
 ----
 ```
-git clone https://github.com/kevinian/itrip
-cd itrip
+git clone https://github.com/kevinian/itrip-proxy
+cd itrip-proxy
 npm install
 ```
 
